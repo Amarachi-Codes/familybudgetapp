@@ -4,6 +4,7 @@ import './App.css';
 import Myheader from './Myheader';
 import Hero from './hero';
 import Track from './track';
+import Signup from './signup';
 
 
 
@@ -14,6 +15,7 @@ function App() {
   <Myheader/>
   <Hero/>
   <Track/>
+  <Signup/>
   
  
   
