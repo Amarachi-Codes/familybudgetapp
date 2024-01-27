@@ -1,0 +1,44 @@
+.mylist{
+    list-style: none;
+    padding: 4px 12px;
+    color: #000;
+    
+  }
+.mybtn{
+    /* margin-left: 12px; */
+    margin-right: 12px;
+  }
+  .mynav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 24px 32px;
+    width: 100%;
+    z-index: 1;
+    background-color: white;
+  }
+  
+  .mylinks{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }  
+  .logo{
+    align-items: start;
+    /* margin-left: 4rem; */
+    text-decoration: none;
+    color: #456f0b;
+    font-weight: 800;
+    
+    
+  }
+  .space{
+    padding: 0 0.5rem;
+  }
+  .hero-btn{
+    padding: 8px 24px;
+    background-color: whitesmoke;
+    color: #008254;
+    border-radius: 4px;
+    margin-right: 20px;
+}
