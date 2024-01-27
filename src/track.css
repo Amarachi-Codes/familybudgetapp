@@ -1,3 +1,8 @@
+
+.title{
+    padding-top: 4rem;
+    text-align: center;
+}
 .img-wrapper{
     display: flex;
     align-items: center;
@@ -8,5 +13,5 @@
     width: 16rem;
 }
 .description{
-    width: 20rem;
+    width: 18rem;
 }

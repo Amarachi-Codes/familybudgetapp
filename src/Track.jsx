@@ -4,7 +4,7 @@ import "./track.css";
 const Track = () => {
   return (
     <>
-    <div>
+    <div className='title'>
       <h3>Plan and Track your budgets with NextWallet</h3>
     </div>
     <div className='img-wrapper'>
