@@ -6,6 +6,7 @@ import Hero from './hero';
 import Track from './track';
 import Signup from './signup';
 import More from './More';
+import Faq from './Faq';
 
 
 
@@ -18,6 +19,7 @@ function App() {
   <Track/>
   <Signup/>
   <More/>
+  <Faq/>
   
  
   
