@@ -5,6 +5,7 @@ import Myheader from './Myheader';
 import Hero from './hero';
 import Track from './track';
 import Signup from './signup';
+import More from './More';
 
 
 
@@ -16,6 +17,7 @@ function App() {
   <Hero/>
   <Track/>
   <Signup/>
+  <More/>
   
  
   
