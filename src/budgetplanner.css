@@ -1,0 +1,17 @@
+.bg7{
+    background-color: #e2faf2;
+    
+}
+.budget-container{
+    padding: 4rem 16rem;
+}
+.budget-container input{
+    background-color: #008254;
+    outline: none;
+    border: 1px solid #008254;
+    border-radius: 4px;
+    padding: 8px;
+    width: 32rem;
+    color: #e8fdac;
+    margin-right: 4px;
+}
