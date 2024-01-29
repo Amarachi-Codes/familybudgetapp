@@ -11,18 +11,18 @@ const More = () => {
         <div className=''>
         <img src="https://s3.amazonaws.com/cdns3.nerdwallet.com/img/landing/2021/app-hub/nw-app_article-image_d.png" alt="" srcset="" />
         <h6 className='heading4'>Supercharge your money savvy with the NextWallet.</h6>
-        <p className='description'>Read the guide</p>
+        <p className='description'><a href="">Read the guide</a></p>
         </div>
         <div>
         <img src="https://s3.amazonaws.com/cdns3.nerdwallet.com/img/landing/2021/app-hub/track-expenses_article-image_d.png" alt="" srcset="" />
         
         <h6 className='heading4'>How to track your expenses with NextWallet</h6>
-        <p className='description'>Learn about cash flow</p>
+        <p className='description'><a href="">Learn about cash flow</a></p>
         </div>
         <div>
         <img src="https://s3.amazonaws.com/cdns3.nerdwallet.com/img/landing/2021/app-hub/manage-credit_article-image_d.png" alt="" srcset="" />
         <h6 className='heading4'>How NextWallet helps you keep up with your credit</h6>
-        <p className='description'>Credit score 101</p>
+        <p className='description'><a href="">Credit score 101</a></p>
         </div>
     </div>
     </>
