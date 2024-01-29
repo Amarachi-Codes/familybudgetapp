@@ -7,6 +7,7 @@ import Track from './track';
 import Signup from './signup';
 import More from './More';
 import Faq from './Faq';
+import Testimonial from './Testimonial';
 
 
 
@@ -20,6 +21,7 @@ function App() {
   <Signup/>
   <More/>
   <Faq/>
+  <Testimonial/>
   
  
   

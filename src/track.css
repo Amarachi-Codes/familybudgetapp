@@ -1,7 +1,8 @@
 
 .title{
     padding-top: 4rem;
-    text-align: center;
+    padding-left: 16rem;
+    padding-right: 16rem;
 }
 .img-wrapper{
     display: flex;

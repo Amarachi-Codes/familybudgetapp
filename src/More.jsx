@@ -5,7 +5,7 @@ const More = () => {
   return (
     <>
     <div className='title'>
-      <h3>Make the most of your money with NerdWallet</h3>
+      <h2>Make the most of your money with NextWallet</h2>
     </div>
     <div className='img-wrapper'>
         <div>
