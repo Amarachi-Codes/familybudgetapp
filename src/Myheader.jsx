@@ -2,7 +2,7 @@ import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./header.css";
 
-let mynavs = ["Expense Tracking", "Income Tracking","Budget Planning","Financial Goals"];
+let mynavs = ["Expense Tracking", "Income Tracking","Budget Planning","Balance Tracking"];
 let mybtns =["Contact","My NextWallet"];
 function Myheader(){
     return(

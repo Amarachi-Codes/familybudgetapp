@@ -1,11 +1,13 @@
 import React from 'react';
+import "./testimonial.css";
+import "./expensetracker.css";
 
 const Balancetracker = () => {
     return (
         <>
             <div className='bg1 expense-container'>
                 <h4>Balance Tracker</h4>
-                <p>Track your Balance with Next Wallet</p>
+                <p>Track your Balance with NextWallet</p>
 
                 <div className='expense-wrapper'>
                     <label htmlFor="">Income</label>
