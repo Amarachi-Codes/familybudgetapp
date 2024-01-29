@@ -11,7 +11,7 @@ const Track = () => {
         <div>
         <img src="https://s3.amazonaws.com/cdns3.nerdwallet.com/img/landing/2021/app-hub/net-worth.png" alt="" srcset="" />
         <h4 className='heading4'>Plan budget</h4>
-        <p className='description'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur et deleniti eligendi sunt incidunt quibusdam!</p>
+        <p className='description'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur et deleniti eligendi sunt incidunt quibusdam Lorem, ipsum dolor!</p>
         </div>
         <div>
         <img src="https://s3.amazonaws.com/cdns3.nerdwallet.com/img/landing/2021/app-hub/cash-flow.png" alt="" srcset="" />

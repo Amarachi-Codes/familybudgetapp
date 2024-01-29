@@ -8,7 +8,7 @@ const More = () => {
       <h2>Make the most of your money with NextWallet</h2>
     </div>
     <div className='img-wrapper'>
-        <div>
+        <div className=''>
         <img src="https://s3.amazonaws.com/cdns3.nerdwallet.com/img/landing/2021/app-hub/nw-app_article-image_d.png" alt="" srcset="" />
         <h6 className='heading4'>Supercharge your money savvy with the NextWallet.</h6>
         <p className='description'>Read the guide</p>

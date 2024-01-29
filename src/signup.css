@@ -1,12 +1,13 @@
 .signup-container{
     background-color: #e2faf2;
-    height: 200px;
+    height: 260px;
     /* padding: auto; */
     text-align: center;
+    padding: 4rem 0;
    
    
 }
 .signup-container h3{
-padding-top: 4rem;
+/* padding-top: 4rem; */
 padding-bottom: 2rem;
 }

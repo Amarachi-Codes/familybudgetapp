@@ -8,6 +8,7 @@ import Signup from './signup';
 import More from './More';
 import Faq from './Faq';
 import Testimonial from './Testimonial';
+import Security from './Security';
 
 
 
@@ -23,7 +24,7 @@ function App() {
   <Faq/>
   <Testimonial/>
   <Signup name = "Could your dollars use a dose of Next-Gen wisdom?"/>
-  
+  <Security/>
  
   
   </>

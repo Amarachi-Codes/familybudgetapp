@@ -9,9 +9,10 @@
     align-items: center;
     justify-content: space-between;
     padding: 4rem 16rem;
+    gap: 50px;
 }
 .img-wrapper img{
-    width: 16rem;
+    width: 18rem;
 }
 .description{
     width: 18rem;

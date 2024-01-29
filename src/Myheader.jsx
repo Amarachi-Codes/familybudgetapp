@@ -8,7 +8,7 @@ function Myheader(){
     return(
         <>
         <nav className="navbar sticky-top container-fluid mynav">
-        <a href="" className="logo">NextWallet</a>
+        <p><a href="" className="logo">NextWallet</a></p>
             <ul className="mylinks">
             {mynavs.map((mynav,index)=>(
                     <li className="mylist" key={index}>{mynav}</li>

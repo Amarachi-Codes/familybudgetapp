@@ -1,11 +1,13 @@
 import React from 'react';
-import "./signup.css"
+import "./signup.css";
+import Button from "./Hero.jsx"
 
 const Signup = (Props) => {
   return (
     <div className='signup-container'>
       <h3>{Props.name}</h3>
-      <button>Sign Up</button>
+      <Button/>
+      {/* <button>Sign Up</button> */}
     </div>
   )
 }
