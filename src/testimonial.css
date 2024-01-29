@@ -1,0 +1,22 @@
+.testimonial{
+    width: 19.5rem;
+    padding: 32px;
+    border-radius: 4px;
+  
+}
+.testimonial-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 4rem 16rem;
+    
+}
+.bg1{
+ background-color: #ebf5fe;
+}
+.bg2{
+    background-color: #cee6fc;
+}
+.bg3{
+    background-color: #9ecdfa;
+}

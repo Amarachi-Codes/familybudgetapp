@@ -18,10 +18,11 @@ function App() {
   <Myheader/>
   <Hero/>
   <Track/>
-  <Signup/>
+  <Signup name = "Take money management to the Next level"/>
   <More/>
   <Faq/>
   <Testimonial/>
+  <Signup name = "Could your dollars use a dose of Next-Gen wisdom?"/>
   
  
   

@@ -1,10 +1,10 @@
 import React from 'react';
 import "./signup.css"
 
-const Signup = () => {
+const Signup = (Props) => {
   return (
     <div className='signup-container'>
-      <h3>Take money management to the Next level</h3>
+      <h3>{Props.name}</h3>
       <button>Sign Up</button>
     </div>
   )
