@@ -9,6 +9,7 @@ import More from './More';
 import Faq from './Faq';
 import Testimonial from './Testimonial';
 import Security from './Security';
+import Expensetracker from './Expensetracker';
 
 
 
@@ -25,6 +26,8 @@ function App() {
   <Testimonial/>
   <Signup name = "Could your dollars use a dose of Next-Gen wisdom?"/>
   <Security/>
+  <Expensetracker title="Expense Tracker" description="Track all your daily expenses in one place" placeholder="Describe your Expenses" label="Expenses" />
+  <Expensetracker title="Income Tracker" description="Track all your daily income in one place" placeholder="Describe your Income" label="Income"/>
  
   
   </>

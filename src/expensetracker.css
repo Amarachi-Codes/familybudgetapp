@@ -1,0 +1,33 @@
+.bg-6{
+    background-color: #e8fdac;
+    color: #008254;
+}
+.expense-container{
+    padding: 4rem 16rem;
+    margin-bottom: 4rem;
+}
+.expense-wrapper{
+    margin: 24px 0;
+}
+.expense-wrapper label{
+    margin-right: 20px;
+}
+.space{
+    padding-right: 1.5rem;
+}
+.expense-wrapper span input{
+    width: 16rem;
+}
+.expense-wrapper input{
+    background-color: #008254;
+    outline: none;
+    border: 1px solid #008254;
+    border-radius: 4px;
+    padding: 8px;
+    width: 32rem;
+    color: #e8fdac;
+    margin-right: 4px;
+}
+input::placeholder{
+    color: #e8fdac;
+}

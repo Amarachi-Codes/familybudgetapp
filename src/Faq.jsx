@@ -34,7 +34,7 @@ const Faq = () => {
         <p>The accuracy of the information displayed is entirely dependent on the accounts you link with NextWallet. To see the most accurate information, connect all of your bank accounts, credit cards, loans, and your home value, where applicable.</p>
         <p>Have a question you don’t see here?<a href=""> Check out our NextWallet community forum.</a> </p>
       </div>
-      
+
 
     </div>
 
