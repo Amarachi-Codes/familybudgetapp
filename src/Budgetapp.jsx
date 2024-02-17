@@ -19,8 +19,15 @@ const Budgetapp = () => {
                         <p>$0</p>
                     </div>
                 </div>
+                <h3>TRANSACTION HISTORY</h3>
+                <h3>ADD NEW TRANSACTION</h3>
+                <label htmlFor="name">Name</label>
+                <input type="text" id='name' />
+                <label htmlFor="amount">Amount</label>
+                <input type="text" id='amount' />
 
-                
+
+
 
             </form>
         </div>
