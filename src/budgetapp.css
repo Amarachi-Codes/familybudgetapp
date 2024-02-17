@@ -4,6 +4,7 @@
    width:40%;
    margin: 4rem 30rem;
    padding: 5rem 0;
+   background-color: #aeccf6;
 
 }
 .form-container form{
@@ -29,13 +30,28 @@ input{
    border-radius: 4px;
    width: 400px;
    margin-bottom: 8px;
+   padding: 4px;
+   color: black;
 
 }
 label{
     padding: 4px 0;
 }
 .btn-submit{
-    background-color: blue;
-    padding: 4px;
+    background-color: #008254;
+    padding: 6px;
     width: 400px;
+    margin: 20px 0;
+}
+.btn-submit2{
+    background-color: red;
+    padding: 6px;
+    width: 400px;
+    margin-top: 10px;
+}
+.inc-header{
+color: #008254;
+}
+.exp-header{
+    color: red;
 }

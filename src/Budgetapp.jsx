@@ -12,11 +12,11 @@ const Budgetapp = () => {
                 </div>
                 <div className='display-output'>
                     <div>
-                        <h6>INCOME</h6>
+                        <h6 className='inc-header'>INCOME</h6>
                         <p>$0</p>
                     </div>
                     <div>
-                        <h6>EXPENSES</h6>
+                        <h6 className='exp-header'>EXPENSES</h6>
                         <p>$0</p>
                     </div>
                 </div>
@@ -28,7 +28,7 @@ const Budgetapp = () => {
 
                 <div>
                     <button className='btn-submit'>ADD INCOME</button><br></br>
-                    <button className='btn-submit'>ADD EXPENSE</button>
+                    <button className='btn-submit2'>ADD EXPENSE</button>
                 </div>
 
             </form>
