@@ -26,10 +26,18 @@ const Budgetapp = () => {
                 <label htmlFor="amount">Amount</label>
                 <input type="text" id='amount' />
 
-
-
+                <div>
+                    <button>ADD INCOME</button>
+                    <button>ADD EXPENSE</button>
+                </div>
 
             </form>
+            <ul className='income'>
+
+            </ul>
+            <ul className='expense'>
+
+            </ul>
         </div>
     )
 }
