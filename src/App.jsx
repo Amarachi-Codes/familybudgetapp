@@ -12,6 +12,7 @@ import Security from './Security';
 import Expensetracker from './Expensetracker';
 import Balancetracker from './Balancetracker';
 import Budgetplanner from './Budgetplanner';
+import Budgetapp from './Budgetapp';
 
 
 
@@ -32,6 +33,7 @@ function App() {
   <Expensetracker title="Income Tracker" description="Track all your daily income in one place" placeholder="Describe your Income" label="Income"/>
  <Balancetracker/>
  <Budgetplanner/>
+<Budgetapp/>
   
   </>
   )

@@ -1,34 +1,34 @@
-import React from 'react'
+import React from 'react';
+import "./budgetapp.css";
 
 const Budgetapp = () => {
     return (
-        <div>
-            <form onSubmit={handleFormSubmit}>
-                <h2>Budget Tracker</h2>
+        <div className='form-container'>
+            <form >
+                <h4>Budget Tracker</h4>
                 <div>
-                    <h5>YOUR BALANCE</h5>
+                    <h6>YOUR BALANCE</h6>
                     <p>$0</p>
                 </div>
-                <div>
+                <div className='display-output'>
                     <div>
-                        <h3>INCOME</h3>
+                        <h6>INCOME</h6>
                         <p>$0</p>
                     </div>
                     <div>
-                        <h3>EXPENSES</h3>
+                        <h6>EXPENSES</h6>
                         <p>$0</p>
                     </div>
                 </div>
-                <h3>TRANSACTION HISTORY</h3>
-                <h3>ADD NEW TRANSACTION</h3>
+                <h6 className='trans_history'>ADD NEW TRANSACTION</h6>
                 <label htmlFor="name">Name</label>
                 <input type="text" id='name' />
                 <label htmlFor="amount">Amount</label>
                 <input type="text" id='amount' />
 
                 <div>
-                    <button>ADD INCOME</button>
-                    <button>ADD EXPENSE</button>
+                    <button className='btn-submit'>ADD INCOME</button><br></br>
+                    <button className='btn-submit'>ADD EXPENSE</button>
                 </div>
 
             </form>

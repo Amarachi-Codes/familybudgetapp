@@ -1,0 +1,41 @@
+.form-container{
+    border: 1px solid gainsboro;
+    border-radius: 10px;
+   width:40%;
+   margin: 4rem 30rem;
+   padding: 5rem 0;
+
+}
+.form-container form{
+    display: grid;
+    place-content: center;
+}
+.display-output{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.form-container form h4{
+    text-align: center;
+    padding-bottom: 1.5rem;
+}
+.trans_history{
+    text-align: center;
+    padding-bottom: 0.8rem;
+}
+input{
+    background-color: #fff;
+    border: 1px solid gainsboro;
+   border-radius: 4px;
+   width: 400px;
+   margin-bottom: 8px;
+
+}
+label{
+    padding: 4px 0;
+}
+.btn-submit{
+    background-color: blue;
+    padding: 4px;
+    width: 400px;
+}
